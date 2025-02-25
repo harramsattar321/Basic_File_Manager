@@ -133,7 +133,7 @@ int main() {
                 moveFile(currentDir);
                 break;
             case 6:
-                std::cout << "Exiting the program.\n";
+                std::cout << "Exiting the program.\n Good Bye";
                 break;
             default:
                 std::cout << "Invalid choice. Please try again.\n";
